@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "notes": "Midea M Thermal Power -C2 με τους πλήρεις πίνακες απόδοσης του κατασκευαστή (προεπιλογή). Η Midea Arctic R32 (D2N8-B) αφαιρέθηκε — δεν παράγεται πια. GP+, TCL και Midea R290 παραμένουν διαθέσιμες.",
+  "version": "1.5.1",
+  "notes": "Αντλίες GP+ (R290 και R32) με τους πίνακες απόδοσης του κατασκευαστή (Shenling ThermaX), όπως και η Midea -C2.",
   "date": "2026-11-13",
   "download_url": "https://github.com/Doitsidis/fcsel"
 }
